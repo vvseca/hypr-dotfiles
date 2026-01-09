@@ -2,7 +2,7 @@
 current dots for backup
 
 ## Desktop
-![alt-text](https://i.imgur.com/Q4frEJV.jpeg)
+![alt-text](https://i.imgur.com/UTCh1Qv.jpeg)
 
 ## Laptop
 ![alt-text]()
