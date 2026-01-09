@@ -5,4 +5,4 @@ current dots for backup
 ![alt-text](https://i.imgur.com/UTCh1Qv.jpeg)
 
 ## Laptop
-![alt-text]()
+![alt-text](https://i.imgur.com/gUZQ5s9.png)
