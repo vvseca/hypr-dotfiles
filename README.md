@@ -8,7 +8,7 @@ current dots for backup
 ![alt-text](https://i.imgur.com/gUZQ5s9.png)
 
 ## utils
-- arch
+- artix
 - hypr
 - swww
 - pywal16
