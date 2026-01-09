@@ -17,6 +17,6 @@ current dots for backup
 - wofi
 
 ## inspo
-github.com/zhaleff/BlackNode
-github.com/elifouts/Dotfiles
-github.com/LierB/dotfiles
+- https://github.com/zhaleff/BlackNode
+- https://github.com/elifouts/Dotfiles
+- https://github.com/LierB/dotfiles
