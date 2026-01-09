@@ -6,3 +6,17 @@ current dots for backup
 
 ## Laptop
 ![alt-text](https://i.imgur.com/gUZQ5s9.png)
+
+## utils
+- arch
+- hypr
+- swww
+- pywal16
+- waybar
+- kitty
+- wofi
+
+## inspo
+github.com/zhaleff/BlackNode
+github.com/elifouts/Dotfiles
+github.com/LierB/dotfiles
