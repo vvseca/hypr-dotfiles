@@ -1,22 +1,22 @@
 # Hyprland Dotfiles
-current dots for backup
+config backups for desktop + laptop
 
-## Desktop
+## desktop
 ![alt-text](https://i.imgur.com/UTCh1Qv.jpeg)
 
-## Laptop
+## laptop
 ![alt-text](https://i.imgur.com/gUZQ5s9.png)
 
 ## utils
-- artix
+- artix & openrc
 - hypr
-- swww
+- awww
 - pywal16
 - waybar
 - kitty
 - wofi
 
-## inspo
+## refs
 - https://github.com/zhaleff/BlackNode
 - https://github.com/elifouts/Dotfiles
 - https://github.com/LierB/dotfiles
