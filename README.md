@@ -2,7 +2,7 @@
 config backups for desktop + laptop
 
 ## desktop
-![alt-text](https://i.imgur.com/UTCh1Qv.jpeg)
+![alt-text](https://i.imgur.com/EqFRugl.jpeg)
 
 ## laptop
 ![alt-text](https://i.imgur.com/gUZQ5s9.png)
